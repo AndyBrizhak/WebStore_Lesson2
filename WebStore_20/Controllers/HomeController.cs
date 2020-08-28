@@ -24,6 +24,18 @@ namespace WebStore.Controllers
             return View();
         }
 
+        public IActionResult BlogSingle()
+        {
+            return View();
+        }
+
+        public IActionResult Cart()
+        {
+            return View();
+        }
+
+
+
 
     }
 }
