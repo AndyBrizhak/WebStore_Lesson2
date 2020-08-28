@@ -49,12 +49,6 @@ namespace WebStore.Controllers
             return View();
         }
 
-        public IActionResult ProductDetails()
-        {
-            return View();
-        }
-
-
 
 
 
