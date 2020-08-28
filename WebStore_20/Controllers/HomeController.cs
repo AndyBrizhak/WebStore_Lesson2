@@ -19,5 +19,11 @@ namespace WebStore.Controllers
             return View();
         }
 
+        public IActionResult Code404()
+        {
+            return View();
+        }
+
+
     }
 }
